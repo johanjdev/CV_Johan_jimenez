@@ -5,7 +5,7 @@
 **Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Email:** [johanjdev@gmail.com](johanjdev@gmail.com)
+- **Email:** [johanjdev@gmail.com](mailto:johanjdev@gmail.com)
 
 
 ## 🏢 Experiencia Laboral
