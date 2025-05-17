@@ -13,7 +13,7 @@
 - Analisis y desarrollo de software.
 
 ### **Axity** _(2021 - 2025)_
-- ANalista de sistemas de nivel 1, dando soporte.
+- Analista de sistemas de nivel 1, dando soporte.
 
 ## 🎓 Educación
 ### **SENA** _(2025 - Actual)_
